@@ -97,6 +97,7 @@ private fun Statistics() {
     }
 }
 
+
 @Composable
 private fun IconWithText(
     iconResId: Int,
