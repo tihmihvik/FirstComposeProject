@@ -19,6 +19,8 @@ import ru.tihonov.firstcomposeproject.CommentsViewModel
 import ru.tihonov.firstcomposeproject.CommentsViewModelFactory
 import ru.tihonov.firstcomposeproject.domain.FeedPost
 import ru.tihonov.firstcomposeproject.domain.PostComment
+import ru.tihonov.firstcomposeproject.ui.theme.CommentsScreenState
+import ru.tihonov.firstcomposeproject.ui.theme.FirstComposeProjectTheme
 
 @Composable
 fun CommentsScreen(
